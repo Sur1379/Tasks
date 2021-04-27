@@ -1,4 +1,4 @@
-package com.company;
+package com.company.exercises;
 
 
 import java.util.concurrent.ThreadLocalRandom;
