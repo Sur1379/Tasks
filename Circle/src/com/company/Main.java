@@ -1,8 +1,7 @@
 package com.company;
 
-public class Main {
-
-    public static void main(String[] args) {
+    public class Main {
+      public static void main(String[] args) {
 	   double p = 3.14;
 	    int radius = 3;
          double area = p * radius * radius;

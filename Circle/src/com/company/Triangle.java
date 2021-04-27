@@ -8,6 +8,7 @@ package com.company;
                  int S = (a * b)/2;
                   System.out.println(S);
         int L = a + b + c;
+
         System.out.println(L);
     }
 }
