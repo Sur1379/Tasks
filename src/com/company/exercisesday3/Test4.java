@@ -2,7 +2,7 @@ package com.company.exercisesday3;
 
 import java.util.Scanner;
 
-public class test_4 {
+public class Test4 {
     public static void main(String[] args) {
         double p = 3.14159;
         Scanner scanner = new Scanner(System.in);

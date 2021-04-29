@@ -2,7 +2,7 @@ package com.company.exercisesday3;
 
 import java.util.Scanner;
 
-public class test_1 {
+public class Test1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("input number");
@@ -21,3 +21,4 @@ public class test_1 {
 
     }
 }
+

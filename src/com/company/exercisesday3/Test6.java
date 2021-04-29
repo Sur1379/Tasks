@@ -1,6 +1,6 @@
 package com.company.exercisesday3;
 
-public class test_6 {
+public class Test6 {
     public static void main(String[] args) {
         int date = 1996;
         char s = 'S';
